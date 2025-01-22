@@ -5,5 +5,7 @@
   "timeBoost": true,
   "multiplierBoost": false,
   "combinedBoost": false,
-  "playGame": true
+  "playGame": true,
+  "delayEachAccount": [1, 1],
+  "doTasks": true
 }
