@@ -1,7 +1,6 @@
 {
   "limit": 100,
   "countdown": 300,
-  "country_time": "en-US",
   "timeBoost": true,
   "multiplierBoost": false,
   "combinedBoost": false,
@@ -9,3 +8,4 @@
   "delayEachAccount": [1, 1],
   "doTasks": true
 }
+
